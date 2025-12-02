@@ -1,6 +1,4 @@
-use tailwind base
-use tailwind components
-use tailwind utilities
+@import "tailwindcss";
 
 
 html {
