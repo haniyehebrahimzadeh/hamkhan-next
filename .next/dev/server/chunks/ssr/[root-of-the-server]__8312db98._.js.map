@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///E:/hamkhan-nextjs/app/products/%5B%5B...slug%5D%5D/page.tsx"],"sourcesContent":["interface Props {\r\n  params: {\r\n    slug?: string[];\r\n  };\r\n}\r\n\r\nexport default function Page({ params }: Props) {\r\n  const { slug } = params;\r\n\r\n  // اگر هیچ پارامتری نبود\r\n  if (!slug) {\r\n    return <div>All Products</div>;\r\n  }\r\n\r\n  // اگر چند سطح پارامتر داشتیم\r\n  return <div>{slug.join(\" / \")}</div>;\r\n}\r\n"],"names":[],"mappings":";;;;;;AAMe,SAAS,KAAK,EAAE,MAAM,EAAS;IAC5C,MAAM,EAAE,IAAI,EAAE,GAAG;IAEjB,wBAAwB;IACxB,IAAI,CAAC,MAAM;QACT,qBAAO,8OAAC;sBAAI;;;;;;IACd;IAEA,6BAA6B;IAC7B,qBAAO,8OAAC;kBAAK,KAAK,IAAI,CAAC;;;;;;AACzB"}}]
+}

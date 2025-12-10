@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/app/globals.css"],"sourcesContent":[" /* @import \"tailwindcss\";\n\n\n@layer base {\n  body {\n    @apply font-iranYekan bg-gray-50 p-0 m-0;\n    direction: rtl; \n  }\n  .rtl-placeholder::placeholder {\n  direction: rtl;\n  text-align: right;\n}\n  \n}    */"],"names":[],"mappings":""}}]
+}

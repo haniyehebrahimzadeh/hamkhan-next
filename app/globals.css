@@ -1,7 +1,14 @@
-@import "tailwindcss";
+ /* @import "tailwindcss";
 
 
-html {
+@layer base {
+  body {
+    @apply font-iranYekan bg-gray-50 p-0 m-0;
+    direction: rtl; 
+  }
+  .rtl-placeholder::placeholder {
   direction: rtl;
-  font-family: IRANSans, sans-serif;
+  text-align: right;
 }
+  
+}    */

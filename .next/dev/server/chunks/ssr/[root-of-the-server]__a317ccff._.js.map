@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///E:/hamkhan-nextjs/app/users/page.tsx"],"sourcesContent":["import React from 'react'\r\ninterface User{\r\n    id:number;\r\n    name :string;\r\n}\r\n\r\nconst Users = async () => {\r\n  const res= await  fetch('https://jsonplaceholder.typicode.com/users')\r\n  const users:User[] =await res.json();\r\n  return (\r\n    <>\r\n    <div>Users</div>\r\n    <p>{new Date().toLocaleTimeString()}</p>\r\n    <ul>\r\n        {users.map (user => <li key={user.id}>{user.name}</li>)}\r\n    </ul>\r\n    </>\r\n    \r\n  )\r\n}\r\n\r\nexport default Users "],"names":[],"mappings":";;;;;;AAMA,MAAM,QAAQ;IACZ,MAAM,MAAK,MAAO,MAAM;IACxB,MAAM,QAAc,MAAM,IAAI,IAAI;IAClC,qBACE;;0BACA,8OAAC;0BAAI;;;;;;0BACL,8OAAC;0BAAG,IAAI,OAAO,kBAAkB;;;;;;0BACjC,8OAAC;0BACI,MAAM,GAAG,CAAE,CAAA,qBAAQ,8OAAC;kCAAkB,KAAK,IAAI;uBAAnB,KAAK,EAAE;;;;;;;;;;;;AAK5C;uCAEe"}}]
+}

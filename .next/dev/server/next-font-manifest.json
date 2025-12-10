@@ -1,0 +1,10 @@
+{
+  "app": {
+    "[project]/app/_not-found/page": [],
+    "[project]/app/products/[[...slug]]/page": [],
+    "[project]/app/users/page": []
+  },
+  "appUsingSizeAdjust": false,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

@@ -1,0 +1,77 @@
+/* [project]/app/globals.css [app-client] (css) */
+
+
+/* [project]/public/styles/fonts.scss.css [app-client] (css) */
+@font-face {
+  font-family: IranYekan;
+  src: url("../media/IRANYekanX-Black.744d8161.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: IranYekan;
+  src: url("../media/IRANYekanX-UltraLight.a3cf266e.woff2") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: IranYekan;
+  src: url("../media/IRANYekanX-Light.4f3c382c.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: IranYekan;
+  src: url("../media/IRANYekanX-Regular.711af013.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: IranYekan;
+  src: url("../media/IRANYekanX-Medium.378e9499.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: IranYekan;
+  src: url("../media/IRANYekanX-DemiBold.d78d2f65.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: IranYekan;
+  src: url("../media/IRANYekanX-Bold.85b4fca1.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: IranYekan;
+  src: url("../media/IRANYekanX-ExtraBold.e22d1338.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: IranYekan;
+  src: url("../media/IRANYekanX-Black.744d8161.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/*# sourceMappingURL=_1341e19a._.css.map*/
