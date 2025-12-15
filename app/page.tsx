@@ -1,9 +1,9 @@
+import BannerSlider from '@/app/components/landing/banner-slider/banner-slider';
 
-
-export default function Home() {
-  return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-   همخوان
-    </div>
-  );
+export default function HomePage(){
+  return(
+    <>
+    <BannerSlider/>
+    </>
+  )
 }

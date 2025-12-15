@@ -1,0 +1,94 @@
+/* [project]/app/fonts/iran-yekan/iranyekan_fb28b48c.module.css [app-client] (css) */
+@font-face {
+  font-family: iranYekan;
+  src: url("../media/IRANYekanX_Black-s.p.744d8161.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: iranYekan;
+  src: url("../media/IRANYekanX_Bold-s.p.85b4fca1.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: iranYekan;
+  src: url("../media/IRANYekanX_DemiBold-s.p.d78d2f65.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: iranYekan;
+  src: url("../media/IRANYekanX_ExtraBlack-s.p.2efb0de8.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: iranYekan;
+  src: url("../media/IRANYekanX_ExtraBold-s.p.e22d1338.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: iranYekan;
+  src: url("../media/IRANYekanX_Heavy-s.p.4bd654b4.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: iranYekan;
+  src: url("../media/IRANYekanX_Light-s.p.4f3c382c.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: iranYekan;
+  src: url("../media/IRANYekanX_Medium-s.p.378e9499.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: iranYekan;
+  src: url("../media/IRANYekanX_Regular-s.p.711af013.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: iranYekan;
+  src: url("../media/IRANYekanX_Thin-s.p.270dbc63.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: iranYekan;
+  src: url("../media/IRANYekanX_UltraLight-s.p.a3cf266e.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: iranYekan Fallback;
+  src: local(Arial);
+  ascent-override: 89.66%;
+  descent-override: 39.85%;
+  line-gap-override: 0.0%;
+  size-adjust: 100.38%;
+}
+
+.iranyekan_fb28b48c-module__v0pk6a__className {
+  font-family: iranYekan, iranYekan Fallback;
+}
+
+.iranyekan_fb28b48c-module__v0pk6a__variable {
+  --font-iranYekan: "iranYekan", "iranYekan Fallback";
+}
+
+/*# sourceMappingURL=app_fonts_iran-yekan_iranyekan_fb28b48c_module_css_bad6b30c._.single.css.map*/

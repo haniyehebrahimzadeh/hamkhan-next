@@ -1,7 +1,7 @@
- /* @import "tailwindcss";
+ @import "tailwindcss";
 
 
-@layer base {
+/* @layer base {
   body {
     @apply font-iranYekan bg-gray-50 p-0 m-0;
     direction: rtl; 
@@ -12,3 +12,6 @@
 }
   
 }    */
+   body {
+  font-family: var(--font-iranYekan);
+}

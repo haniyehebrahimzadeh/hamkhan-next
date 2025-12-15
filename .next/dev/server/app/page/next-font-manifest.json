@@ -1,8 +1,20 @@
 {
   "pages": {},
   "app": {
-    "[project]/app/page": []
+    "[project]/app/page": [
+      "static/media/IRANYekanX_Black-s.p.744d8161.woff2",
+      "static/media/IRANYekanX_Bold-s.p.85b4fca1.woff2",
+      "static/media/IRANYekanX_DemiBold-s.p.d78d2f65.woff2",
+      "static/media/IRANYekanX_ExtraBlack-s.p.2efb0de8.woff2",
+      "static/media/IRANYekanX_ExtraBold-s.p.e22d1338.woff2",
+      "static/media/IRANYekanX_Heavy-s.p.4bd654b4.woff2",
+      "static/media/IRANYekanX_Light-s.p.4f3c382c.woff2",
+      "static/media/IRANYekanX_Medium-s.p.378e9499.woff2",
+      "static/media/IRANYekanX_Regular-s.p.711af013.woff2",
+      "static/media/IRANYekanX_Thin-s.p.270dbc63.woff2",
+      "static/media/IRANYekanX_UltraLight-s.p.a3cf266e.woff2"
+    ]
   },
-  "appUsingSizeAdjust": false,
+  "appUsingSizeAdjust": true,
   "pagesUsingSizeAdjust": false
 }

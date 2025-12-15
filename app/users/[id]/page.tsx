@@ -7,4 +7,4 @@ const UserDetailPage = async ({ params }: Props) => {
   return <div>UserDetailPage {id}</div>;
 };
 
-export default UserDetailPage;
+export default UserDetailPage;  
